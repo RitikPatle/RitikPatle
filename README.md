@@ -1,6 +1,6 @@
-<h2>Hello, 🙏🏻</h2>
+<h2>🙏🏻 Hello,</h2>
        <h1>I am Ritik Patle,</h1>
-       <h3> 🏄 Visit me at: https://ritik-patle.web.app/</h3>
+       <p> 🏄 Visit me at: https://ritik-patle.web.app/</p>
        <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I Like to work using,</p>
 <div>
 <p align="center">
